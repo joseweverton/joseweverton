@@ -1,8 +1,8 @@
 Olá 👋
 
-<p>Eu sou <strong>José Weverton</strong> :relaxed:, programador front end.</p>
+<p>Eu sou <strong>José Weverton</strong> :relaxed:, programador web.</p>
 <p>Graduado em administração e téc. em informática, sempre fui fascinado pelas soluções tecnológicas promovidas pela programação. </p>
-<p>Venho me aperfeiçoando e com estudo constante busco um aprimoramento ainda maior nas linguagens que já utilizo.</p>
+<p>Venho me aperfeiçoando e com estudo contínuo busco um aprimoramento ainda maior nas linguagens que já utilizo.</p>
 <p><strong>Skils:<strong></p>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
