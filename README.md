@@ -1,8 +1,9 @@
 Olá 👋
 
-<p>Eu sou <strong>José Weverton</strong> :relaxed:, programador web.</p>
-<p>Graduado em administração e téc. em informática, sempre fui fascinado pelas soluções tecnológicas promovidas pela programação. </p>
-<p>Venho me aperfeiçoando e com estudo contínuo busco um aprimoramento ainda maior nas linguagens que já utilizo.</p>
+<p>Sou <strong>José Weverton</strong> :relaxed:, programador web.</p>
+<p>Graduado em Administração e técnico em Informática voltado para o eixo tecnológico. Atualmente estou em uma formação Full Stack aprimorando novas habilidades e consolidando os conhecimentos de front end. Acredito que a combinação de habilidades técnicas e conhecimentos em administração me permitirá contribuir de forma colaborativa na área de desenvolvimento. </p>
+<p>Facilidade em se comunicar e em produzir dados de gestão de TI, com percepção crítica e analítica que podem auxiliar nas tomadas de decisões aliado com direcionamento estratégicos.</p>
+<p>A paixão pela área de desenvolvimento web me motiva a explorar soluções criativas e eficientes para os desafios do dia a dia. Sou capaz de combinar habilidades técnicas, sempre buscando alinhar os objetivos tecnológicos com as metas e direcionamentos estratégicos.</p>
 <p><strong>Skils:<strong></p>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
