@@ -22,11 +22,11 @@ Olá 👋
 </a>
 <br><br><br>
 
-<!-- ![Jose Weverton Stats](https://github-readme-stats.vercel.app/api?username=joseweverton&show_icons=true&theme=transparent) -->
+<!--![Jose Weverton Stats](https://github-readme-stats.vercel.app/api?username=joseweverton&show_icons=true&theme=transparent)-->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseweverton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
