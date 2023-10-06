@@ -37,7 +37,7 @@ Hello 👋
 
 <h4>Conecte-se comigo:</h4>
 <a href="https://www.linkedin.com/in/weverton-costa/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" >
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" >
 </a>
 <br><br><br>
 
