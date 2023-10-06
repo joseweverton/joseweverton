@@ -2,10 +2,12 @@
 
 Olá 👋 
 
-<p>Sou <strong>José Weverton</strong> :relaxed:, programador web.</p>
-<p>Graduado em Administração e técnico em Informática voltado para o eixo tecnológico. Atualmente estou em uma formação Full Stack aprimorando novas habilidades e consolidando os conhecimentos de front end. Acredito que a combinação de habilidades técnicas e conhecimentos em administração me permitirá contribuir de forma colaborativa na área de desenvolvimento. </p>
-<p>Facilidade em se comunicar e em produzir dados de gestão de TI, com percepção crítica e analítica que podem auxiliar nas tomadas de decisões aliado com direcionamento estratégicos.</p>
-<p>A paixão pela área de desenvolvimento web me motiva a explorar soluções criativas e eficientes para os desafios do dia a dia. Sou capaz de combinar habilidades técnicas, sempre buscando alinhar os objetivos tecnológicos com as metas e direcionamentos estratégicos.</p>
+<p>Sou <strong>José Weverton</strong> :relaxed:</p>
+<p>🎓 Sou graduado em Administração e também possuo formação técnica em Informática com foco na área tecnológica. </p>
+
+<p>Atualmente, estou cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas. Tenho grande entusiasmo em participar de bootcamps e cursos imersivos. Alguns que já concluí ou estou atualmente envolvido incluem a formação imersiva pela DevClub, Origamid, Cubos Academy em parceria pela Ifood e Ada Tech também em parceria com Ifood. Estas experiências me permitem manter-me constantemente atualizado e aperfeiçoar minhas habilidades na área de tecnologia. 👨🏻‍💻</p>
+
+<p>Minha paixão pela área de desenvolvimento surgiu ainda durante a faculdade de Administração, o que me levou a realizar o curso técnico em Informática. Isso me proporcionou facilidade na comunicação e na produção de dados de gestão de TI, com uma abordagem crítica e analítica. Essa combinação de habilidades tem contribuído de forma colaborativa na minha experiência atual e para meu aperfeiçoamento na área de desenvolvimento onde almejo me consolidar como um profissional experiente na área de tecnologia.</p>
 
 
 -----------------------------------------------------
@@ -14,13 +16,13 @@ Olá 👋
 
 Hello 👋 
 
-<p>I'm <strong>José Weverton</strong>:relaxed:, a web programmer.</p>
+<p>I'm <strong>José Weverton</strong>:relaxed:</p>
 
-<p>I have a degree in Administration and a technical background in Information Technology focused on the technological axis. Currently, I'm undergoing Full Stack training to enhance my skills and solidify my knowledge of front-end development. I believe that the combination of technical skills and knowledge in administration will allow me to contribute collaboratively in the development field.</p>
+<p>🎓 I hold a degree in Administration and also have technical training in Informatics with a focus on the technological field.</p>
 
-<p>I have good communication skills and the ability to produce IT management data, with critical and analytical perception that can assist in decision-making, along with strategic direction.</p>
+<p>Currently, I am pursuing my second undergraduate degree in Analysis and Systems Development. I have great enthusiasm for participating in bootcamps and immersive courses. Some that I have already completed or am currently involved in include immersive training through DevClub, Origamid, Cubos Academy in partnership with Ifood, and Ada Tech, also in partnership with Ifood. These experiences allow me to stay constantly updated and enhance my skills in the technology field. 👨🏻‍💻.</p>
 
-<p>My passion for web development drives me to explore creative and efficient solutions for everyday challenges. I am capable of combining technical skills while always striving to align technological objectives with goals and strategic directions.</p>
+<p>My passion for the development field emerged during my Administration degree, which led me to undertake the technical Informatics course. This provided me with ease in communication and IT management data production, with a critical and analytical approach. This combination of skills has collaboratively contributed to my current experience and my improvement in the development field, where I aspire to establish myself as an experienced professional in the technology sector.</p>
 
 <p><strong>Skils:</strong></p>
 
