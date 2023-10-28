@@ -1,30 +1,13 @@
-🇧🇷
 
-Olá 👋 
+![header](https://capsule-render.vercel.app/api?type=waving&&color=154c79&height=120&section=header&fontSize=90)
 
-<p>Sou <strong>José Weverton</strong> :relaxed:</p>
-<p>🎓 Sou graduado em Administração e também possuo formação técnica em Informática com foco na área tecnológica. </p>
+# JOSÉ WEVERTON DA COSTA
 
-<p>Atualmente, estou cursando minha segunda graduação em <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho grande entusiasmo em participar de bootcamps e cursos imersivos. Alguns já concluí outros em andamento. Dos principais destacam-se: A formação imersiva fullStack pela DevClub, Design Web Origamid, back-end pela Cubos Academy by Ifood e front-end pela Ada Tech by Ifood. Estas experiências me permitem manter-me constantemente atualizado e aperfeiçoar habilidades na área de tecnologia objetivando futuramento me profissionalizar como um desenvolvedor Fullstack. 👨🏻‍💻</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=154C79&multiline=true&random=false&width=500&height=90&lines=Desenvolvedor+de+software%3A+HTML+%7C+CSS;SASS+%7C+JavaScript+%7C+React+%7C+Bootstrap+;Node.Js+%7C+SQL)](https://git.io/typing-svg)
 
-<p>Minha paixão pela área de desenvolvimento surgiu ainda durante a faculdade de Administração, o que me levou a realizar o curso técnico em Informática. Isso me proporcionou facilidade na comunicação e na produção de dados de gestão de TI, com uma abordagem crítica e analítica. Essa combinação de habilidades tem contribuído de forma colaborativa na minha experiência atual e para meu aperfeiçoamento na área de desenvolvimento onde almejo me consolidar como um profissional experiente na área de tecnologia.</p>
+<p>👋 Olá, eu sou José Weverton! Desenvolvedor Full Stack de formação. Minha jornada profissional é guiada pela busca<br> contínua de técnicas e pela entrega de soluções completas e inovadoras, desde o back-end até a experiência do usuário<br> fluida e intuitiva no front-end. 👨🏻‍💻📚.</p><br>
 
-
------------------------------------------------------
-
-🇺🇸
-
-Hello 👋 
-
-<p>I'm <strong>José Weverton</strong>:relaxed:</p>
-
-<p>🎓 I hold a degree in Administration and also have technical training in Informatics with a focus on the technological field.</p>
-
-<p>Currently, I am pursuing my second undergraduate degree in Analysis and Systems Development. I have great enthusiasm for participating in bootcamps and immersive courses. Some that I have already completed or am currently involved in include immersive training through DevClub, Origamid, Cubos Academy in partnership with Ifood, and Ada Tech, also in partnership with Ifood. These experiences allow me to stay constantly updated and enhance my skills in the technology field. 👨🏻‍💻.</p>
-
-<p>My passion for the development field emerged during my Administration degree, which led me to undertake the technical Informatics course. This provided me with ease in communication and IT management data production, with a critical and analytical approach. This combination of skills has collaboratively contributed to my current experience and my improvement in the development field, where I aspire to establish myself as an experienced professional in the technology sector.</p>
-
-<p><strong>Skils:</strong></p>
+<p>🛠️ Minhas Hard Skills:</p>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,9 +16,20 @@ Hello 👋
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+</div> <br><br>
 
-<h4>Conecte-se comigo:</h4>
+<p>🤝 Minhas Soft Skills:</p>
+
+<ul>
+  <li>Pensamento analítico e resolução de problemas</li>
+  <li>Comunicação clara de resultados complexos</li>
+  <li>Curiosidade em explorar e descobrir tendências</li>
+  <li>Capacidade de se adaptar a novas tecnologias</li>
+  <li>Trabalho em equipe para colaborar em projetos multidisciplinares</li>
+</ul>
+<br>
+
+<p>Conecte-se comigo:</p>
 <a href="https://www.linkedin.com/in/weverton-costa/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" >
 </a>
