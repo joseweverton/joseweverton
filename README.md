@@ -32,10 +32,10 @@
 
 <ul>
   <li>Pensamento analítico e resolução de problemas</li>
-  <li>Comunicação clara de resultados complexos</li>
-  <li>Curiosidade em explorar e descobrir tendências</li>
-  <li>Capacidade de se adaptar a novas tecnologias</li>
-  <li>Trabalho em equipe para colaborar em projetos multidisciplinares</li>
+  <li>Comunicação clara e objetiva</li>
+  <li>Curiosidade em explorar</li>
+  <li>Trabalho em equipe e comprometimento</li>
+  <li>Flexibilidade e Capacidade de se adaptar a novas tecnologias</li>
 </ul>
 <br>
 
