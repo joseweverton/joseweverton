@@ -3,8 +3,7 @@
 
 # JOSÉ WEVERTON DA COSTA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=154C79&multiline=true&random=false&width=500&height=90&lines=Desenvolvedor+de+software%3A+HTML+%7C+CSS;SASS+%7C+JavaScript+%7C+React+%7C+Bootstrap+;Node.Js+%7C+SQL)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=154C79&multiline=true&random=false&width=435&height=90&lines=Desenvolvedor+de+software%3A;Front-end+%7C+Back-end;Banco+de+dados)](https://git.io/typing-svg)
 <p>👋 Olá, eu sou José Weverton! Desenvolvedor Full Stack de formação. Minha jornada profissional é guiada pela busca<br> contínua de técnicas e pela entrega de soluções completas e inovadoras, desde o back-end até a experiência do usuário<br> fluida e intuitiva no front-end. 👨🏻‍💻📚.</p><br>
 
 <p>🛠️ Minhas Hard Skills:</p>
