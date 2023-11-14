@@ -12,11 +12,11 @@
 <p>Possuo habilidades nas seguintes tecnologias:</p>
 
 <div>
-<img width=100px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma" />
+<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma" />
 </div>
 <div>
   <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+<img width=250px src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
 </div>
 <br><br>
 <p>Conecte-se comigo:</p>
