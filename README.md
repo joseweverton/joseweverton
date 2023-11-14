@@ -12,7 +12,7 @@
 <p>Possuo habilidades nas seguintes tecnologias:</p>
 
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma" />
+<img width=100px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma" />
 </div>
 <div>
   <br>
