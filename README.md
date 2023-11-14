@@ -12,13 +12,10 @@
 <p>Possuo habilidades nas seguintes tecnologias:</p>
 
 <div>
-<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma" />
+<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,figma,nodejs,express,postgres,mysql&perline=7" />
 </div>
 <div>
-  <br>
-<img width=250px src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
-</div>
-<br><br>
+<br>
 <p>Conecte-se comigo:</p>
 
 <a href="https://www.linkedin.com/in/weverton-costa/">
