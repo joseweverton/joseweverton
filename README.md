@@ -12,7 +12,7 @@
 <p>Possuo habilidades nas seguintes tecnologias:</p>
 
 <div>
-<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,postgres,mysql&perline=7" />
+<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql&perline=7" />
 </div>
 <div>
 <br>
