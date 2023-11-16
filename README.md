@@ -12,6 +12,8 @@
 <h3>🛠️ Expertise Técnica</h3>
 <p>Possuo habilidades nas seguintes tecnologias:</p><br>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <div>
   <img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql&perline=7" />
 </div>
