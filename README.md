@@ -21,7 +21,7 @@ Encaro desafios com uma abordagem analítica de maneira colaborativa e mantendo 
 <br>
 Conecte-se comigo:
 
-[![LinkedIn](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](<https://www.linkedin.com/in/weverton-costa/>)<br>
+[![LinkedIn](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](<https://www.linkedin.com/in/jose-weverton/>)<br>
 <br><br>
 
 <!--![Jose Weverton Stats](https://github-readme-stats.vercel.app/api?username=joseweverton&show_icons=true&theme=transparent)-->
