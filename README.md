@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=154C79&multiline=true&random=false&width=435&height=90&lines=Desenvolvedor+de+software%3A;Front-end+%7C+Back-end;Banco+de+dados)](https://git.io/typing-svg)
 
-<p>👋 Olá, sou um Dev Full Stack de formação em constante evolução! Minha jornada acadêmica e profissional é movida pela paixão de explorar novas técnicas e criar soluções inovadoras, do back-end até a experiência do usuário fluida e intuitiva no front-end. 👨🏻‍💻📚.</p>
-<p>Encaro desafios com uma abordagem analítica, solucionando questões cotidianas de maneira colaborativa e mantendo uma constante busca por novos conhecimentos. Dedico-me ao trabalho com comprometimento, flexibilidade e fácil adaptação para absorver novas tecnologias.</p></p><br>
+👋 Olá, sou um Dev Full Stack de formação. Minha jornada acadêmica e profissional é movida pela paixão de explorar novas técnicas e criar soluções inovadoras. 👨🏻‍💻📚.
 
-<h3>🛠️ Expertise Técnica</h3>
-<p>Possuo habilidades nas seguintes tecnologias:</p><br>
+Encaro desafios com uma abordagem analítica de maneira colaborativa e mantendo uma constante busca por novos conhecimentos para solucionar questões cotidianas. Dedico-me ao trabalho com comprometimento, flexibilidade e fácil adaptação para absorver novas tecnologias.<br>
+
+#### 🛠️ Possuo habilidades em:<br>
 
 <div>
   <img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql&perline=7" />
@@ -19,12 +19,10 @@
 *html | css | javascript | react | bootstrap | git | github<br>figma | nodejs | express | sequelize | postgres | mysql*
 
 <br>
-<p>Conecte-se comigo:</p>
+Conecte-se comigo:
 
-<a href="https://www.linkedin.com/in/weverton-costa/">
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-<br><br><br>
+[![LinkedIn](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](<https://www.linkedin.com/in/weverton-costa/>)<br>
+<br><br>
 
 <!--![Jose Weverton Stats](https://github-readme-stats.vercel.app/api?username=joseweverton&show_icons=true&theme=transparent)-->
 
