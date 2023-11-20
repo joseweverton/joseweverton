@@ -6,11 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=154C79&multiline=true&random=false&width=435&height=90&lines=Desenvolvedor+de+software%3A;Front-end+%7C+Back-end;Banco+de+dados)](https://git.io/typing-svg)
 
-👋 Olá, sou um Dev Full Stack de formação. Minha jornada acadêmica e profissional é movida pela paixão de explorar novas técnicas e criar soluções inovadoras. 👨🏻‍💻📚.
+👋 Olá! Sou um desenvolvimento Full Stack, e minha trajetória acadêmica e profissional é impulsionada pela paixão de explorar novas técnicas e criar soluções inovadoras. 👨🏻‍💻📚.
 
-Encaro desafios com uma abordagem analítica de maneira colaborativa e mantendo uma constante busca por novos conhecimentos para solucionar questões cotidianas. Dedico-me ao trabalho com comprometimento, flexibilidade e fácil adaptação para absorver novas tecnologias.<br>
+Encaro desafios com uma abordagem analítica, sempre buscando colaboração e mantendo uma constante busca por novos conhecimentos para solucionar questões do dia a dia. Dedico-me ao trabalho com comprometimento, flexibilidade e facilidade de adaptação para absorver e aplicar novas tecnologias.<br><br>
 
-#### 🛠️ Possuo habilidades em:<br>
+
+#### 🛠️ Possuo habilidades em: <br><br>
 
 <div>
   <img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql&perline=7" />
