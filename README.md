@@ -23,22 +23,23 @@ Encaro desafios com uma abordagem analítica, sempre buscando colaborar de forma
 
 Venho constantemente aprimorando habilidades no front-end, back-end e banco de dados. Me formei em técnico em informatica e atuei por um tempo com suporte, mas me encontrei no desenvolvimento de sistemas.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Atuei um longo período na área administrativa, onde possuo formação. Mesmo  nessa área, sempre me envolvi com projetos internos de estruturação de dados (VBA, BI), migrações de sistemas, e soporte a usuários. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Atuei um longo período na área administrativa, onde possuo formação. Mesmo  nessa área, sempre me envolvi com projetos internos de estruturação de dados (VBA, BI), migrações de sistemas, e suporte a usuários. 
 
 Adoraria integrar uma equipe de desenvolvimento e contribuir inicialmente como Jr, buscando evoluir com a experiência adquirida no dia a dia.
 
 ### 📚 Bootcamps e cursos imersivos:
 
 - ADA Tech: Front-end
-  >HTML, CSS, JavaScript<br>
-  >Framework React.
+  >HTML, CSS, JavaScript;<br>
+  >React;<br>
+  >Typescript.
   
 - Cubos Academy: Back-end
   >Desenvolvimento Back-end (Javascript, Node.js e pacotes npm);<br>
-  >Desenvolvimento de APIs Rest;<br>
-  >Experiência com projeção de banco de dados utilizando PostgreSQL e SQL;<br>
-  >Experiência com Git e GitHub;<br>
-  >Experiência com metodologias ágeis;<br>
+  >APIs Rest e RestFul;<br>
+  >Projeção de banco de dados utilizando PostgreSQL e SQL;<br>
+  >Git e GitHub;<br>
+  >Metodologias ágeis: SCRUM e KanBan<br>
   
 - DevClub: FullStack
   >Front-end: HTML, CSS, React e TypeScript.<br> 
@@ -47,8 +48,8 @@ Adoraria integrar uma equipe de desenvolvimento e contribuir inicialmente como J
 - Origamid: Front-end e Web Design
   > Desenvovimento de interfaces web.<br>
   > UI/UX.<br>
-  > Utilização do Figma.<br>
-  > Frameworks: Reack, Reduce, Jquery, SASS, Vue.<br>
+  > Figma.<br>
+  > Frameworks: React, Reduce, Jquery, SASS, Vue.<br>
   
 - Udemy: Cursos diversos
   >Cursos rápidos de diferentes tecnologias.
