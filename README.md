@@ -21,7 +21,7 @@ Encaro desafios com uma abordagem analítica, sempre buscando colaborar de forma
 
 Venho constantemente aprimorando habilidades no front-end, back-end e banco de dados. Me formei em técnico em informatica e atuei por um tempo com suporte, mas me encontrei no desenvolvimento de sistemas.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Atuei um longo período na área administrativa, onde possuo formação. Mesmo  nessa área, sempre me envolvi com projetos internos de estruturação de dados (VBA, BI), migrações de sistemas, e suporte a usuários. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Atuei um longo período na área administrativa, onde possuo formação. Mesmo  nessa área, sempre me envolvi com projetos internos de estruturação de dados (VBA, BI, Python, SQL), migrações de sistemas, e suporte a usuários. 
 
 Adoraria integrar uma equipe de desenvolvimento e contribuir inicialmente como Jr, buscando evoluir com a experiência adquirida no dia a dia.
 
