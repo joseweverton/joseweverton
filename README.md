@@ -6,55 +6,26 @@
 
 ## 👋 Olá! Sou José Weverton 
 
-Desenvolvimento Full Stack Jr em início de carreira 👨🏻‍💻📚
+Desenvolvedor Full Stack Jr e Analista de Dados 👨🏻‍💻📚
 
 <!--Encaro desafios com uma abordagem analítica, sempre buscando colaborar de forma participativa e mantendo uma constante busca por novos conhecimentos para solucionar questões do dia a dia. Dedico-me ao trabalho com comprometimento, flexibilidade e facilidade de adaptação para absorver e aplicar novas tecnologias.<br><br>-->
 
+Venho constantemente aprimorando habilidades no front-end, back-end e banco de dados. Atuei por um tempo com suporte de TI e posteriormente migrei para área de dados e desenvolvimento.
 
-### 🛠️ Possuo habilidades em: <br><br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Sou formado em Administração e Técnico em Informatica, atuei como Analista Administrativo com ênfase em Dados por mais de 6 anos envolvido em projetos internos de estruturação de dados utilizando: VBA, BI, Python, SQL, participei de migrações de sistemas e suporte técnico da área tributária de veículos novos, peças e pneus. 
+<br><br>
+
+#### 🛠️ Algumas tecnologias que domino: <br><br>
 
 <div>
-<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql&perline=7" />
+<img width=250px src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,figma,nodejs,express,sequelize,postgres,mysql,py&perline=7" />
 </div>
 
-*html | css | javascript | react | bootstrap | git | github<br>figma | nodejs | express | sequelize | postgres | mysql*
+*html | css | javascript | react | bootstrap | git | github<br>figma | nodejs | express | sequelize | postgres | mysql | python*
 
 <br>
-
-Venho constantemente aprimorando habilidades no front-end, back-end e banco de dados. Me formei em técnico em informatica e atuei por um tempo com suporte, mas me encontrei no desenvolvimento de sistemas.
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Atuei um longo período na área administrativa, onde possuo formação. Mesmo  nessa área, sempre me envolvi com projetos internos de estruturação de dados (VBA, BI, Python, SQL), migrações de sistemas, e suporte a usuários. 
 
 Adoraria integrar uma equipe de desenvolvimento e contribuir inicialmente como Jr, buscando evoluir com a experiência adquirida no dia a dia.
-
-### 📚 Bootcamps e cursos imersivos:
-
-- ADA Tech: Front-end
-  >HTML, CSS, JavaScript;<br>
-  >React;<br>
-  >Typescript.
-  
-- Cubos Academy: Back-end
-  >Desenvolvimento Back-end (Javascript, Node.js e pacotes npm);<br>
-  >APIs Rest e RestFul;<br>
-  >Projeção de banco de dados utilizando PostgreSQL e SQL;<br>
-  >Git e GitHub;<br>
-  >Metodologias ágeis: SCRUM e KanBan<br>
-  
-- DevClub: FullStack
-  >Front-end: HTML, CSS, React e TypeScript.<br> 
-  >Back-end com nodeJS, Express, Sequalize e arquitetura MVC.<br>
-   >Banco de Dados: Postgres e MongoDB. <br>
-- Origamid: Front-end e Web Design
-  > Desenvovimento de interfaces web.<br>
-  > UI/UX.<br>
-  > Figma.<br>
-  > Frameworks: React, Reduce, Jquery, SASS, Vue.<br>
-  
-- Udemy: Cursos diversos
-  >Cursos rápidos de diferentes tecnologias.
-  
-<br>
 
 ####  Perfil Linkedin para contato:
 
