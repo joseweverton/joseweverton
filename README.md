@@ -12,7 +12,7 @@ Desenvolvedor Full Stack Jr e Analista de Dados 👨🏻‍💻📚
 
 Venho constantemente aprimorando habilidades no front-end, back-end e banco de dados. Atuei por um tempo com suporte de TI e posteriormente migrei para área de dados e desenvolvimento.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Sou formado em Administração e Técnico em Informatica, atuei como Analista Administrativo com ênfase em Dados por mais de 6 anos envolvido em projetos internos de estruturação de dados utilizando: VBA, BI, Python, SQL, participei de migrações de sistemas e suporte técnico da área tributária de veículos novos, peças e pneus. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e acumulo participações em diferentes bootcamps de tecnologia. Sou formado em Administração e Técnico em Informática. Atuei como Analista Administrativo, com ênfase em Dados, por mais de 6 anos, envolvido em projetos internos de estruturação de dados utilizando VBA, BI, Python e SQL. Participei de migrações de sistemas e suporte técnico na área tributária de veículos novos, peças e pneus. 
 <br><br>
 
 #### 🛠️ Algumas tecnologias que domino: <br><br>
